@@ -493,9 +493,12 @@ section h2::after{
     text-align:center;
 }
 
-#contact p{
-    margin:15px 0;
-    font-size:17px;
+#contact p {
+    text-align: center;
+    margin: 15px auto;
+    font-size: 17px;
+    line-height: 1.6;
+    max-width: 800px;
 }
 
 #contact a{
